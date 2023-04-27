@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b24e6e5-ba02-4130-9795-7a546d7606b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Exceptions02/src/Exceptions/ClienteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions02/src/exceptions/ClienteException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions02/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions02/src/entities/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions02/src/entities/Cliente.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ML1UiqvBzaFhsy8gAv0hqvYw4Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Drive-dnweb-development/Sisnema/Formação Java Backend/Github/Java-02-23/09-Exceptions&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Exceptions02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b24e6e5-ba02-4130-9795-7a546d7606b0" name="Changes" comment="" />
+      <created>1677532065740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677532065740</updated>
+    </task>
+    <servers />
+  </component>
+</project>
